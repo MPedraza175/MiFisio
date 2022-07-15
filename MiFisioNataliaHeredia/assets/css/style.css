@@ -1,0 +1,92 @@
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+#menu li > a {
+  font-size: 18px;
+  font-weight: bold;
+  color: rgb(70, 69, 69);
+}
+
+#menu form > button {
+  font-size: 18px;
+  font-weight: 200;
+}
+
+.carousel-inner {
+  max-height: 39rem;
+}
+
+#local {
+  background-color: #f3f3f3;
+  padding-bottom: 300px;
+  display: flex;
+  justify-content: center;
+}
+
+.wrapper {
+  width: 50%;
+  margin-left: 100px;
+  margin-top: 150px;
+}
+
+#numero-local div {
+  padding: 0 20px 0 0;
+  height: 48px;
+}
+
+#numero-local div:not(:last-child) {
+  border-right: 2px solid #f3f3f3;
+}
+
+#numero-local div:not(:first-child) {
+  padding-left: 20px;
+}
+
+#numero-local p {
+  margin: 0%;
+}
+
+#bg-contactos {
+  position: relative;
+  top: -130px;
+}
+
+#seccion-contacto {
+  background-color: #1b2a4e;
+  min-height: 500px;
+  position: relative;
+}
+
+#contenedor-formulario {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50, -50);
+  background: #fbfafa;
+  border-radius: 5px;
+  max-width: 200px;
+}
+
+#titulo-fomrulario {
+  color: #f3f3f3;
+}
+
+.footer {
+  background: #1b2a4e;
+  min-height: 100px;
+}
+
+.footer p {
+  color: #f3f3f3;
+  text-align: center;
+}
+
+#icono i {
+  font-size: 26px;
+  padding: 0 8px;
+  color: #f3f3f3;
+}/*# sourceMappingURL=style.css.map */
+
+
+

@@ -1,0 +1,19 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    
+}
+#menu li > a {
+    font-size: $fontsize;
+    font-weight: bold;
+    color: rgb(70, 69, 69);
+}
+#menu form > button{
+
+    font-size: $fontsize;
+    font-weight:200;
+}
+.wrapper{
+    width: 50%;
+    margin-left: 100px;
+    margin-top: 150px;
+}
